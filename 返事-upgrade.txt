@@ -1,3 +1,26 @@
+分からない
+	- 意味わからん i don't understand
+	- 聞き取れない／なかった I didn't catch that
+		- 聞き取りが難しかった listening is hard
+	- 出てこない../忘れてた I can't recall/remember
+[Q] 質問です
+	- 聞いていい？ could I ask 
+	= 質問していい
+はい、うん
+	- それ（は）分かる I feel you!
+	- 本当そうだよ I'm telling you, yes
+いいえ、ううん
+	- 聞いたことない haven't heard of it
+ダメ、あかん、アウトです
+はい、聞いたことある
+	- ゲームでやったことある I've done it in a game
+
+そりゃそうだけど、
+	- AはAだけど it is what it is
+
+経験（けいけん）
+	- 今まではないっすね
+
 頻度（ひんど）
 	平均一か月に二回ぐらい
 
@@ -7,7 +30,10 @@
 		- お邪魔だった？
 	- それはまずいって
 
-"..."じゃねーって
+[Fillers]
+	- "..."じゃねーって
+	- だってさ 
+	- A:ええ→ B:"ええ"って (bro wdym)
 
 忘れちゃった forgot
 	- 単語／名前出て来ない can't think of, can't appear
