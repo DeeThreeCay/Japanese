@@ -1,0 +1,5 @@
+visage = face
+
+trésor = treasure
+
+mouton = muu-tohn

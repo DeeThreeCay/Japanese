@@ -1,0 +1,8 @@
+[だ・です]
+△　学生だ
+〇　学生っす
+
+When you notice something
+    雨だ！
+    Aさんだ！
+    もう９時だ。
