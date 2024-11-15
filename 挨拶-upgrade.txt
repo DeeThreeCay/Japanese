@@ -1,39 +1,59 @@
+=====HELLO/GREETING=====
+ハロー Hello
+	- こんにちは・こんばんは semi-formal
+	- ヤッホー very informal
+	[Response]
+	- はい、いらっしゃい（ませ）welcome
+	- また会った！ We met again!
+
+ただいまー I'm back・おかえり wb
+	- 戻（もど）りました I've returned
+	- あ、来（き）た Oh, he/she's here
+
+=====HOW ARE YOU?=====
 元気？
-	- 人生はどう？
-	- 今日はどうしたの (nuance: problems)
-Answer:
+	- 人生はどう？ How's life?
+	- 今日、何した？what did you do today?
+	- 今日はどうしたの what happened?
+[response]
 	- 何もない、特にない nth special
 
-どこ行ったの?
-	- 今日、何した？
-	- 何言った？ pardon?
-
-～を食べた
+寝る sleep
+	- 起きたばかり I just woke up
 	- 
-	- 晩飯(ばんめし）を食べる
 
-～何時寝てた？
-	- 零時（れいじ）0:00
-	- 昼寝（ひるね）
-	- 寝ればいいじゃん
+=====AFK/Return=====
+ミュートにします I'll MUTE myself
+１０分で戻る i'll come back after 10
 
-日本語上手だね
-	- 日本人っぽい喋り方
-	- 
-Answer:
-	- 教科書っぽい言葉だし
-	- 日本語食べません／飲みません
+めっちゃお手洗い（おてあらい）行きたい I really have to use the TOILET
+	- トイレに行ってきてもいいですか Could I use the washroom? [formal, class]
+	- トイレ、行ってくる brb, toilet break [casual]
 
--------------------
-そろそろ時間で…
-	- あと落ちるよ Have to leave later
-	- 私もそろそろ落ちる
-	- ～、夕飯を食べに行きます
-	- 先に落ちますね
+戻ってきました／きた Oh, he/she came back
 
-またお会いしましょう
+=====GOODBYE/OFFLINE=====
+そろそろ時間で… I have to get off soon.
+	- お先に落ちますね I'll leave FIRST
+	- あと落ちるよ have to leave LATER
+	[R]
+	- 私もそろそろ落ちる Me too.
+	- ～、夕飯を食べに行きます ~'s eating dinner
+	[R2]
+	- 仕事／学校頑張って
+	- 気を付けて stay safe 
+		- 気を付けます。I will. 
 
-仕事／学校頑張って
+またねー see you
+	- またお会いしましょう Let's meet (someday)
+	- いい日になりますように Have a nice day [RARE]
 
-フレンド申請（しんせい）送ってもいいですか
+=====誘（さそ）う Invitation=====
+Do you have time on ~?
+	- 日曜日時間ある？ある
+	- 日曜日暇？
+	- 日曜日空いてる？空いてない／空いてる
+
+フレンド申請（しんせい）送って(も)いいですか
 	- 喜んで
+	- フレンド送っていい？ would make sense
