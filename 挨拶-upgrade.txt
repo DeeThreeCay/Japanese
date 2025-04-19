@@ -20,7 +20,11 @@
 
 寝る sleep
 	- 起きたばかり I just woke up
-	- 
+	- 朝まで起きてる staying up till morning
+
+
+早起き(できる)人 who wakes up early
+
 
 =====AFK/Return=====
 ミュートにします I'll MUTE myself
@@ -28,7 +32,7 @@
 
 めっちゃお手洗い（おてあらい）行きたい I really have to use the TOILET
 	- トイレに行ってきてもいいですか Could I use the washroom? [formal, class]
-	- トイレ、行ってくる brb, toilet break [casual]
+	- トイレ(に)、行ってくる brb, toilet break [casual]
 
 戻ってきました／きた Oh, he/she came back
 

@@ -21,6 +21,23 @@ TULLYs, DOUTOR, コメダ珈琲
 ～なし：ミルク・砂糖・氷（こおり）なしで
 
 [レストランのお知らせ]
-定休日（ていきゅうび）
 
 おもてなし：https://x.com/myuuuuun/status/1850894229905801236
+
+=====STATE=====
+開店（かいてん）        open    
+    - 営業（えいぎょう）中                  in business
+準備（じゅんび）中      preparing
+閉店（へいてん）        closed
+    - 今日は終了（しゅうりょう）しました     ended
+    - 今日は閉店いたしました                closed today
+    - 定休日（ていきゅうび）                closing days
+
+ご予約うけたまわります = 予約OK
+
+=====PRICE=====
+二人合わせて5000円（分）    in total
+支払額（しはらいがく）      total payment
+
+=====DISCOUNT/SERVICE=====
+コーヒーはお代わり自由です  free refill
